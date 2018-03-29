@@ -1,6 +1,6 @@
 <?php
 
-
+//brevetto di @peppelg1
 
 if($msg == "/start")
 {
